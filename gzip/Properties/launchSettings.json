@@ -2,7 +2,7 @@
   "profiles": {
     "gzip": {
       "commandName": "Project",
-      "commandLineArgs": "-s \"E:\\Test\\1000\\2019-10-26-1.log\""
+      "commandLineArgs": "-s \"E:\\Test\\1000\\2019-10-26-1.log.gz\""
     }
   }
 }
